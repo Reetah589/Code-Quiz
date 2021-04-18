@@ -1,4 +1,9 @@
+header {
+    background: blueviolet;
+    padding: 30px 25px;
+    text-align: center;
+}
+
 body {
-    background-color: blueviolet;
     color: cornsilk;
 }
